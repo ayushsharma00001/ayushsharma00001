@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush sharma</h1>
-<h3 align="center">A passionate Fullstack developer from India.</h3>
+<h3 align="center">Mern Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsharma00001&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsharma00001" /> </p>
 
